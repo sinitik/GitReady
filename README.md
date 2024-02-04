@@ -2,7 +2,7 @@
 
 ## Hey, everyone this is my Project0 app video.
 
-**Name:** Sean Sang
+*Name:* Sean Sang
 
 **GitHub Repos:** https://github.com/sinitik
 
