@@ -4,9 +4,9 @@
 
 *Name:* Sean Sang
 
-**GitHub Repos:** https://github.com/sinitik
+**GitHub Repos:** [Link to Repo on GitHub](https://github.com/sinitik)
 
-**Video Creation:** https://www.youtube.com/watch?v=pbzM8BF9-3U
+**Video Creation:** [Link to YouTube](https://www.youtube.com/watch?v=pbzM8BF9-3U "Practice for MarkDown").
 
 **Screencast Software:** OBS 30.0.2
 
